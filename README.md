@@ -1,7 +1,7 @@
 # Projet6-OpenClassrooms
 Parcours Data Scientist - Projet 6 : Classifiez automatiquement des biens de consommation.
 
-**Source de données : **
+**Source de données :**
 
 
 **Contexte:**
@@ -13,7 +13,7 @@ Pour rendre l’expérience utilisateur des vendeurs (faciliter la mise en ligne
 
 **Notre mission :**
 
-Réaliser une étude de faisabilité d’un moteur de classification pour l'automatisation de l'attribution de la catégorie de l'article, en se basant sur la description et l’image de l’article.
+**Réaliser une étude de faisabilité d’un moteur de classification pour l'automatisation de l'attribution de la catégorie de l'article, en se basant sur la description et l’image de l’article.**
 
 Différentes approches mises en oeuvre pour d’extraire les features texte :
 * deux approches de type “bag-of-words”, comptage simple de mots et Tf-idf ;
