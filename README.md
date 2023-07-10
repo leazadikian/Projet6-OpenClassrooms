@@ -15,13 +15,13 @@ Pour rendre l’expérience utilisateur des vendeurs (faciliter la mise en ligne
 
 **Réaliser une étude de faisabilité d’un moteur de classification pour l'automatisation de l'attribution de la catégorie de l'article, en se basant sur la description et l’image de l’article.**
 
-***Différentes approches mises en oeuvre pour d’extraire les features texte :**
+* **Différentes approches mises en oeuvre pour d’extraire les features texte :**
  * deux approches de type “bag-of-words”, comptage simple de mots et Tf-idf ;
  * une approche de type word/sentence embedding classique avec Word2Vec ;
  * une approche de type word/sentence embedding avec BERT ;
  * une approche de type word/sentence embedding avec USE (Universal Sentence Encoder).
 
-***Différentes approches mise en oeuvre pour xtraire les features image :**
+* **Différentes approches mise en oeuvre pour xtraire les features image :**
  * un algorithme de type SIFT ;
  * un algorithme de type CNN (VGG16) Transfer Learning.
 
