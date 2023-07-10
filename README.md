@@ -26,7 +26,7 @@ Pour rendre l’expérience utilisateur des vendeurs (faciliter la mise en ligne
   * un algorithme de type CNN (VGG16) Transfer Learning.
 
 
-**Description des dossiers et fichiers :**
-* **Notebook** : contenant les fonctions permettant le prétraitement des données textes et images ainsi que les résultats du clustering (dont des représentations graphiques).
+**Description des fichiers :**
+* **Notebook** contenant les fonctions permettant le prétraitement des données textes et images ainsi que les résultats du clustering (dont des représentations graphiques).
 * **Support de présentation**, qui présente la démarche et les résultats du clustering.
  
